@@ -1,2 +1,2 @@
 # contributing
-Thank you for considering contributing to All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome, Please feel free to fork the repository and submit pull requests.
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
